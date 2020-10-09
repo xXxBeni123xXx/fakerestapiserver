@@ -14,7 +14,7 @@
                                 "log": "sending request",
                             },
                             "folder": "/im_benny/bennyTest"
-                        },
+                              },
                         {
                             "id": 1,
                             "name": "test",
